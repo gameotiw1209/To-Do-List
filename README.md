@@ -12,7 +12,10 @@ A simple and clean Todo List web application built with HTML, CSS, and vanilla J
 - 💾 Tasks saved to **localStorage** — persists after page refresh
 - 🚫 Alerts user if they try to add an empty task
 
----
+## Link
+- Right now i use it for my daily use to complete my task
+- Creating it from scratch using CSS3 and designing was a great practice at that time
+- The link for the site is https://to-do-list-eight-topaz-76.vercel.app
 
 ## 📁 Project Structure
 
